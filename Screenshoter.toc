@@ -1,0 +1,7 @@
+## Interface: 70200
+## Title: Screenshoter
+## Version: 1.1
+## Notes: A white background behind the UI to take clean screenshots
+## Author: Ellypse
+
+Screenshoter.lua
